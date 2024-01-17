@@ -51,5 +51,6 @@ Datasets are called AmesHousing Data Training_Validation.jmp and AmesHousing Dat
 - When applied to scoring data, the lasso model exhibited superior performance (RSquare: 0.9087).
 - Identified predictors from the lasso model were crucial for accurate predictions.
 
+# Full Project Write-Up
 For a detailed exploration and findings, refer to the full project write-up in the repository.
 
